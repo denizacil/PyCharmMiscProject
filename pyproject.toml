@@ -51,6 +51,29 @@ docs = [
 scientific = [
     "pandas>=2.0.0",
 ]
+optical_fiber = [
+    "meep>=1.20.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.5.0",
+    "mayavi>=4.8.0",
+    "h5py>=3.8.0",
+    "numba>=0.57.0",
+    "dask[complete]>=2023.12.0",
+    "joblib>=1.3.0",
+]
+optical_fiber_advanced = [
+    "meep>=1.20.0",
+    "scipy>=1.10.0",
+    "scikit-learn>=1.3.0",
+    "matplotlib>=3.5.0",
+    "mayavi>=4.8.0",
+    "pyvista>=0.40.0",
+    "plotly>=5.14.0",
+    "h5py>=3.8.0",
+    "numba>=0.57.0",
+    "dask[complete]>=2023.12.0",
+    "joblib>=1.3.0",
+]
 
 [project.urls]
 Homepage = "https://github.com/denizacil/PyCharmMiscProject"
