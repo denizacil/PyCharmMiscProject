@@ -18,7 +18,7 @@ A Python project featuring utilities for vector normalization and other mathemat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PyCharmMiscProject.git
+git clone https://github.com/denizacil/PyCharmMiscProject.git
 cd PyCharmMiscProject
 
 # Create and activate virtual environment
@@ -26,7 +26,7 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install package with development dependencies
-pip install -e ".[dev]"
+pip install -e ".[dev,docs,scientific]"
 ```
 
 ### Basic Usage
@@ -205,11 +205,11 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Author
 
-Deniz - [GitHub](https://github.com/yourusername)
+Deniz - [GitHub](https://github.com/denizacil)
 
 ## Support
 
-- 📖 [Documentation](https://github.com/yourusername/PyCharmMiscProject#readme)
-- 🐛 [Report Issues](https://github.com/yourusername/PyCharmMiscProject/issues)
-- 💡 [Request Features](https://github.com/yourusername/PyCharmMiscProject/issues/new)
+- 📖 [Documentation](https://github.com/denizacil/PyCharmMiscProject#readme)
+- 🐛 [Report Issues](https://github.com/denizacil/PyCharmMiscProject/issues)
+- 💡 [Request Features](https://github.com/denizacil/PyCharmMiscProject/issues/new)
 

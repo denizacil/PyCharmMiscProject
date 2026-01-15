@@ -53,9 +53,9 @@ scientific = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/PyCharmMiscProject"
-Repository = "https://github.com/yourusername/PyCharmMiscProject.git"
-Issues = "https://github.com/yourusername/PyCharmMiscProject/issues"
+Homepage = "https://github.com/denizacil/PyCharmMiscProject"
+Repository = "https://github.com/denizacil/PyCharmMiscProject.git"
+Issues = "https://github.com/denizacil/PyCharmMiscProject/issues"
 
 [tool.setuptools]
 packages = ["pycharmmiscproject"]
